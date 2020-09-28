@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, world!") // eliminar esta línea
+	fmt.Print("Hello, World!") // eliminar esta línea
 }
